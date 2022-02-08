@@ -1,9 +1,8 @@
 "# Ultimate_BSC_Toolkit" 
 
-Please note that a 'config.py' is required to be made with the fields
+Please note that a 'config.py' is required to be made within the same directory with the fields 'private' and 'address' as follows:
 
-private='your private string'
-address='your bsc address'
+![image](https://user-images.githubusercontent.com/35003651/152915613-4f457346-4bbe-4a5c-8b26-83a4dfc09f84.png)
 
 to work properly. You can also skip making this file and hard program them into the code, but this is simply housekeeping 
 and prevents any accidental leaks.

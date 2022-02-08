@@ -1,4 +1,4 @@
-"# Ultimate_BSC_Toolkit" 
+**THE ULTIMATE BSC TOOLKIT**
 
 Please note that a 'config.py' is required to be made within the same directory with the fields 'private' and 'address' as follows:
 
